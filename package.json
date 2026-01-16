@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/pedrohazki333/core-backend-node/issues"
   },
-  "homepage": "https://github.com/pedrohazki333/core-backend-node#readme"
+  "homepage": "https://github.com/pedrohazki333/core-backend-node#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
